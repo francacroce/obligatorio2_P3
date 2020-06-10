@@ -1,0 +1,23 @@
+C:\Users\Home\source\repos\Obligatorio2\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Home\source\repos\Obligatorio2\Dominio\bin\Debug\Dominio.dll
+C:\Users\Home\source\repos\Obligatorio2\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Home\source\repos\Obligatorio2\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Home\source\repos\Obligatorio2\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\source\repos\Obligatorio2\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Home\source\repos\Obligatorio2\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\source\repos\Obligatorio2\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Obligatorio2\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Obligatorio2\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Home\source\repos\Obligatorio2\Dominio\obj\Debug\Dominio.dll
+C:\Users\Home\source\repos\Obligatorio2\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Dominio\bin\Debug\Dominio.dll
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Dominio\obj\Debug\Dominio.dll
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Dominio\obj\Debug\Dominio.pdb

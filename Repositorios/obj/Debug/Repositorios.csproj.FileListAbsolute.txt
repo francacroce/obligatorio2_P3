@@ -1,0 +1,30 @@
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\bin\Debug\Repositorios.dll.config
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\bin\Debug\Dominio.dll
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\bin\Debug\EntityFramework.dll
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\bin\Debug\Dominio.dll.config
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\bin\Debug\EntityFramework.xml
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\obj\Debug\Repositorios.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\Home\source\repos\Obligatorio2\Repositorios\obj\Debug\Repositorios.pdb
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\bin\Debug\Repositorios.dll.config
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\bin\Debug\Dominio.dll
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\bin\Debug\EntityFramework.dll
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\bin\Debug\Dominio.dll.config
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\bin\Debug\EntityFramework.xml
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\obj\Debug\Repositorios.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\Home\Desktop\ORT\3ER SEMESTRE\PROGRAMACION III\Obligatorio2\Repositorios\obj\Debug\Repositorios.pdb
